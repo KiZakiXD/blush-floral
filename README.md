@@ -1,4 +1,4 @@
-# Blush Floral — Undangan Pernikahan Digital
+# Template Undangan Digital — Blush Floral
 
 Template undangan pernikahan digital satu file HTML yang manis dan personal: palet blush pink & floral, cerita cinta tampil sebelum profil mempelai, cocok untuk pasangan muda.
 
